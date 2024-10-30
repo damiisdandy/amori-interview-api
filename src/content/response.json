@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "data": {
+    "results": {
+      "score": 45,
+      "description": "Your love game's scoring a 52% - not exactly Hall of Fame material. While there are moments of open communication, affection, and appreciation, challenges and occasional tension exist."
+    },
+    "strength": {
+      "snippet": {
+        "header": "One shimmering highlight beams forth, illuminating the depth of your caring and considerate nature. Your bond seems to possess a superhero-like ability to respect each other's personal space with a level of finesse that's truly remarkable. Here's a sweet moment",
+        "messages": [
+          {
+            "sender": "You",
+            "content": "hey, just wanted to give you a heads up - work's gonna keep me pretty busy for a bit. Might be a bit MIA on texts"
+          },
+          {
+            "sender": "George",
+            "content": "no worries at all. take all the time you needs"
+          },
+          {
+            "sender": "You",
+            "content": "thanks - i'll let you know when i'm more free"
+          },
+          {
+            "sender": "George",
+            "content": "of course, np. text me whenever you can"
+          }
+        ],
+        "footer": "Nurture and sustain this unwavering understanding, allowing it to serve as the cornerstone of your relationship's strength."
+      }
+    },
+    "rizz-score": 80
+  }
+}
